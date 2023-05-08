@@ -5,7 +5,21 @@ for Section 3.2 Summary Quality Evaluator and Section 3.3 Summary Quality Improv
 <img width="981" alt="Screen Shot 2023-04-10 at 3 12 28 PM" src="https://user-images.githubusercontent.com/129326702/230831059-de3a5c35-33e3-42b4-9cb0-81a9f4961b3a.png">
 
 ### User Study Survey Link for Section 4.3 Quality of Rewritten Summary (RQ2)
+Mozilla:
+
 [https://forms.gle/gzSBoWSib9PqqTfw9](https://forms.gle/gzSBoWSib9PqqTfw9)
+
+[https://forms.gle/414mYwwzdSZNoRRj8](https://forms.gle/414mYwwzdSZNoRRj8)
+
+[https://forms.gle/Gcv5AWa8Xqb8bJar7](https://forms.gle/Gcv5AWa8Xqb8bJar7)
+
+[https://forms.gle/CXD36D3VyiUFkkAR8](https://forms.gle/CXD36D3VyiUFkkAR8)
+
+Eclipse:
+
+[https://forms.gle/b3MFMmP38suPQy4o7](https://forms.gle/b3MFMmP38suPQy4o7)
+
+[https://forms.gle/axidNYkeDdrs8rT3A](https://forms.gle/axidNYkeDdrs8rT3A)
 
 ### Dataset Filtering and Sampling Details in Section 4.1 Dataset
 Due to the training data for ‘gpt-3.5-turbo’ up to Sep 2021, we filter the bugs with bug summary rewriting (51,701 Mozilla bugs and 35,982 Eclipse bugs) in Section 2.2 by the bug creation time and only keep bugs with the bug creation time after ‘2021-10-01’ as our test
